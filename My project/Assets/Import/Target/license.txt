@@ -1,0 +1,11 @@
+Model Information:
+* title:	Target
+* source:	https://sketchfab.com/3d-models/target-19ab2ae256fb4625a13b844a6261593a
+* author:	Cxrly97 (https://sketchfab.com/Cxrly97)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Target" (https://sketchfab.com/3d-models/target-19ab2ae256fb4625a13b844a6261593a) by Cxrly97 (https://sketchfab.com/Cxrly97) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
